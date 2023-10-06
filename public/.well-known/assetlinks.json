@@ -1,0 +1,11 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+        "namespace": "android_app",
+        "package_name": "id.go.jabarprov.digiteam",
+        "sha256_cert_fingerprints":
+            ["6D:FB:CD:65:D6:5B:EE:01:5F:49:F5:E7:0B:CC:5F:B3:80:B8:CB:A1:28:2E:60:E2:8E:0A:7C:8C:A2:35:1D:D7"]
+        }
+    }
+]
